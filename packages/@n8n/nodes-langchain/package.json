@@ -142,7 +142,7 @@
     "@huggingface/inference": "2.8.0",
     "@langchain/anthropic": "0.2.16",
     "@langchain/cohere": "0.2.2",
-    "@langchain/community": "0.2.32",
+    "@langchain/community": "0.3.3",
     "@langchain/core": "catalog:",
     "@langchain/google-genai": "0.0.26",
     "@langchain/google-vertexai": "0.0.27",
